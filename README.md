@@ -1,1 +1,1 @@
-# PrediccionDeHumor-RegresionLogistica
+# PrediccionDeHumor
